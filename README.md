@@ -1,9 +1,10 @@
-<h1 align="center">Bienvenido a mi perfil</h1>
+<h1 align="center">¡Bienvenido a mi perfil!</h1>
 <h3 align="center">Me gusta los videojuegos, programar, diseñar y aprender para más.🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cris223511&label=Profile%20views&color=0e75b6&style=flat" alt="cris223511" /> </p>
+## 💎Mis Logros
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cris223511" alt="cris223511" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=cris223511&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+## 💎Mis Habilidades
 
 <p align="left"> <a href="https://twitter.com/cris223511" target="blank"><img src="https://img.shields.io/twitter/follow/cris223511?logo=twitter&style=for-the-badge" alt="cris223511" /></a> </p>
 
