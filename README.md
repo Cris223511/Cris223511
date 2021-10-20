@@ -1,10 +1,13 @@
 <h1 align="center">¡Bienvenido a mi perfil!</h1>
 
-## 💎 Sobre mí
+## 💎 MI Perfil
+_Bienvenido a mi perfil de github, aquí voy a estar actualizando todos mis repositorios de los trabajos que voy a estar realizando día a día, espero que te entretengas un poco y te sirva de una ayuda mis proyectos._
 
-_Hola👋, mi nombre es Christopher, tengo 20 años y actualmente estoy estudiando la carrera ingeniería de Sistemas de la información en la universidad San Ignacio de Loyola._
+[![Twitter Follow](https://img.shields.io/twitter/follow/Cris223511?color=1DA1F2&label=Cris223511&logo=twitter&style=for-the-badge)](https://twitter.com/Cris223511)
 
-<h3 align="center">Me gusta los videojuegos, programar, diseñar y aprender para más.🎓</h3>
+## 💎 Mi Biografía
+**SOBRE MI**
+_Hola 👋, mi nombre es Christopher Antonio, tengo 20 años y me gusta mucho programar, estudiar lenguajes de programación, digitalizar y aprender cosas nuevas que tengan que ver con lo tecnológico. Actualmente estoy estudiando la carrera Ingeniería de Sistemas de la Información en la Universidad San Ignacio de Loyola (USIL). He culminado mi carrera técnica en el Instituto San Ignacio de Loyola (2018 - 2021) e hice mi traslado a la USIL, convalidando mis cursos que llevé en mi instituto. Soy egresado técnico, estudié en la ISIL durante 3 años, culminando mi carrera técnica satisfactoriamente. Algo muy interesante de mí es que realizo prácticas fundamentales de la carrera de diseño gráfico (como digitalizar, editar fotografías, diseñar, etc) para implementar más mi creatividad, ya que es algo muy entretenido para mí.
 
 ## 💎 Mis Logros
 
@@ -32,3 +35,71 @@ _Hola👋, mi nombre es Christopher, tengo 20 años y actualmente estoy estudian
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris223511&show_icons=true&locale=en" alt="cris223511" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cris223511&" alt="cris223511" /></p>
+
+
+
+### 💻 Web Developer 🌱Father and Vegan
+
+- 🔭 I’m currently working on a [Courses or YT][website]
+- 🌱 I’m currently learning more about web dev
+- 👯 I’m looking to collaborate webinar,meetup...
+- 💬 Ask me about to be a web dev
+- 😄 Pronouns: 'he/him'
+- ⚡ Fun fact: I love videogames but no time to play (thats fun)
+
+---
+
+### 🚀 Coding
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
+
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][yt]
+
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][yt]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][yt]
+
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][yt]
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][yt]
+
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][yt]
+
+[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][yt]
+
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][yt]
+
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][yt]
+
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
+
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][yt]
+
+<br/>
+
+---
+
+### 🎥 Last YT videos
+
+<!-- YT:START -->
+- [Typescript introducción y acceso a curso](https://www.youtube.com/watch?v=tfYkPpnMSYQ)
+- [Vscode tips que nadie muestra [visual studio code 2021]](https://www.youtube.com/watch?v=5nQZV63nhiM)
+- [Pagina web copiando y pegando con frontendor](https://www.youtube.com/watch?v=XGyGJC2yEBQ)
+- [Oferta 24horas 🔥 - lanzamiento ebook linkedin](https://www.youtube.com/watch?v=6vCErxF4mrc)
+- [Test de insignia de JavaScript para Linkedin | No sé ni importar una librería 🤣](https://www.youtube.com/watch?v=nmvL2MphaJE)
+<!-- YT:END -->
+
+➡️ [More videos...][yt]
+
+---
+
+### 🎧 Spotify Playing
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+
+<!-- LINKS -->
+
+[website]: https://naviscode.com/
+[yt]: https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw?sub_confirmation=1
+[blog]: https://blog.naviscode.com/
+
