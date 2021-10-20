@@ -2,6 +2,8 @@
 
 ## 💎 Sobre mí
 
+_Hola👋, mi nombre es Christopher, tengo 20 años y actualmente estoy estudiando la carrera ingeniería de Sistemas de la información en la universidad San Ignacio de Loyola._
+
 <h3 align="center">Me gusta los videojuegos, programar, diseñar y aprender para más.🎓</h3>
 
 ## 💎 Mis Logros
