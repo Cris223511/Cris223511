@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Cris223511</h1>
+<h1 align="center">Bienvenido a mi perfil</h1>
 <h3 align="center">Me gusta los videojuegos, programar, diseñar y aprender para más.🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cris223511&label=Profile%20views&color=0e75b6&style=flat" alt="cris223511" /> </p>
