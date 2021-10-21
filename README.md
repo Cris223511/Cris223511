@@ -1,21 +1,34 @@
-<h1 align="center">¡Bienvenido a mi perfil!</h1>
-
-## 💎 MI Perfil
-_Bienvenido a mi perfil de github, aquí voy a estar actualizando todos mis repositorios de los trabajos que voy a estar realizando día a día, espero que te entretengas un poco y te sirva de una ayuda mis proyectos._
+## 💎 Mi Perfil
+<p align="center"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" /></p>
+<i><p align="justify">Bienvenido a mi perfil de github, aquí voy a estar actualizando todos mis repositorios de los trabajos que voy a estar realizando día a día, espero que te entretengas un poco y que mis proyectos sean de gran ayuda.</p></i>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Cris223511?color=1DA1F2&label=Cris223511&logo=twitter&style=for-the-badge)](https://twitter.com/Cris223511)
 
 ## 💎 Mi Biografía
+
 **SOBRE MI**
-_Hola 👋, mi nombre es Christopher Antonio, tengo 20 años y me gusta mucho programar, estudiar lenguajes de programación, digitalizar y aprender cosas nuevas que tengan que ver con lo tecnológico. Actualmente estoy estudiando la carrera Ingeniería de Sistemas de la Información en la Universidad San Ignacio de Loyola (USIL). He culminado mi carrera técnica en el Instituto San Ignacio de Loyola (2018 - 2021) e hice mi traslado a la USIL, convalidando mis cursos que llevé en mi instituto. Soy egresado técnico, estudié en la ISIL durante 3 años, culminando mi carrera técnica satisfactoriamente. Algo muy interesante de mí es que realizo prácticas fundamentales de la carrera de diseño gráfico (como digitalizar, editar fotografías, diseñar, etc) para implementar más mi creatividad, ya que es algo muy entretenido para mí.
+<i><p align="justify">Hola 👋, mi nombre es Christopher Antonio, tengo 20 años y me gusta mucho programar, estudiar lenguajes de programación, digitalizar y aprender cosas nuevas que tengan que ver con lo tecnológico. Actualmente estoy estudiando la carrera Ingeniería de Sistemas de la Información en la Universidad San Ignacio de Loyola (USIL). He culminado mi carrera técnica en el Instituto San Ignacio de Loyola (2018 - 2021) e hice mi traslado a la USIL, convalidando mis cursos que llevé en mi instituto. Soy egresado técnico, estudié en la ISIL durante 3 años, culminando mi carrera técnica satisfactoriamente. Algo muy interesante de mí es que realizo prácticas fundamentales de la carrera de diseño gráfico (como digitalizar, editar fotografías, diseñar, etc) para aumentar más mi creatividad, ya que es algo muy entretenido para mí.</p></i>
+
+---
 
 ## 💎 Mis Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cris223511&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cris223511&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💎 Mis Habilidades
+## 💎 MIS HABILIDADES
 
-<p align="left"> <a href="https://twitter.com/cris223511" target="blank"><img src="https://img.shields.io/twitter/follow/cris223511?logo=twitter&style=for-the-badge" alt="cris223511" /></a> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,16 +40,13 @@ _Hola 👋, mi nombre es Christopher Antonio, tengo 20 años y me gusta mucho pr
 <a href="https://discord.gg/Undefine2K#7750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Undefine2K#7750" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://twitter.com/cris223511" target="blank"><img src="https://img.shields.io/twitter/follow/cris223511?logo=twitter&style=for-the-badge" alt="cris223511"/></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris223511&show_icons=true&locale=en&layout=compact" alt="cris223511" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris223511&show_icons=true&locale=en" alt="cris223511" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cris223511&" alt="cris223511" /></p>
-
-
 
 ### 💻 Web Developer 🌱Father and Vegan
 
