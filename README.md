@@ -14,7 +14,7 @@
 
 ## 💎 Mis Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cris223511&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cris223511&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -24,81 +24,30 @@
 
 ---
 
+## 💎 Mis Estadísticas
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris223511&show_icons=true&locale=en" alt="cris223511" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cris223511&" alt="cris223511" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris223511&show_icons=true&locale=en&layout=compact" alt="cris223511" /></p>
+
+---
+
 ## 💎 Mis Redes Sociales
 
 <p align="left">
 <a href="https://twitter.com/cris223511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cris223511" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christopher ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher ps" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christopher-ps-5a5b84202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher PS" height="30" width="40" /></a>
 <a href="https://fb.com/cris223511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cris223511" height="30" width="40" /></a>
 <a href="https://instagram.com/chris.antps_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris.antps_18" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/christopher ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="christopher ps" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9CdEoE4egh0uHrHMn7J5lA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="christopher ps" height="30" width="40" /></a>
 <a href="https://discord.gg/Undefine2K#7750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Undefine2K#7750" height="30" width="40" /></a>
 </p>
 
 <p align="left"><a href="https://twitter.com/cris223511" target="blank"><img src="https://img.shields.io/twitter/follow/cris223511?logo=twitter&style=for-the-badge" alt="cris223511"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris223511&show_icons=true&locale=en&layout=compact" alt="cris223511" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris223511&show_icons=true&locale=en" alt="cris223511" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cris223511&" alt="cris223511" /></p>
-
-### 💻 Web Developer 🌱Father and Vegan
-
-- 🔭 I’m currently working on a [Courses or YT][website]
-- 🌱 I’m currently learning more about web dev
-- 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
-
 ---
 
-### 🚀 Coding
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][yt]
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][yt]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][yt]
-
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][yt]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][yt]
-
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][yt]
-
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][yt]
-
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][yt]
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][yt]
-
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][yt]
-
-<br/>
-
----
-
-### 🎥 Last YT videos
-
-<!-- YT:START -->
-- [Typescript introducción y acceso a curso](https://www.youtube.com/watch?v=tfYkPpnMSYQ)
-- [Vscode tips que nadie muestra [visual studio code 2021]](https://www.youtube.com/watch?v=5nQZV63nhiM)
-- [Pagina web copiando y pegando con frontendor](https://www.youtube.com/watch?v=XGyGJC2yEBQ)
-- [Oferta 24horas 🔥 - lanzamiento ebook linkedin](https://www.youtube.com/watch?v=6vCErxF4mrc)
-- [Test de insignia de JavaScript para Linkedin | No sé ni importar una librería 🤣](https://www.youtube.com/watch?v=nmvL2MphaJE)
-<!-- YT:END -->
-
-➡️ [More videos...][yt]
-
----
-
-### 🎧 Spotify Playing
+### 🎧 Escuchando Spotify
 
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
 
