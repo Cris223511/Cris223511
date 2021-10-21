@@ -43,8 +43,6 @@
 <a href="https://discord.gg/Undefine2K#7750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Undefine2K#7750" height="30" width="40" /></a>
 </p>
 
-<p align="left"><a href="https://twitter.com/cris223511" target="blank"><img src="https://img.shields.io/twitter/follow/cris223511?logo=twitter&style=for-the-badge" alt="cris223511"/></a></p>
-
 ---
 
 ### 🎧 Escuchando Spotify
