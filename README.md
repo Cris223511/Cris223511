@@ -6,7 +6,7 @@
 
 ## 📖 Biography
 
-**SOBRE MI**
+**About me**
 <i><p align="justify">Hello, my name is Christopher. I am 20 years old and passionate about programming, studying various programming languages, and constantly learning new technology-related concepts. I am currently in the 10th semester of my Bachelor’s degree in Information Systems Engineering at the Universidad San Ignacio de Loyola (USIL) in 2024. I completed a technical degree at the Instituto San Ignacio de Loyola (2018–2021) and successfully transferred to USIL, receiving credits for my previous coursework. I am a technical graduate and studied for three years at ISIL before pursuing further education. Programming is my primary focus, as I am deeply committed to developing my skills and expertise in the field.</p></i>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Cris223511?color=1DA1F2&label=Cris223511&logo=twitter&style=for-the-badge)](https://twitter.com/Cris223511)
 
