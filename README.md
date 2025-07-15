@@ -14,15 +14,15 @@
 ## 📖 Biography
 
 <i>
-    <p align="justify">
-From a young age, I developed a strong interest in computers, fascinated by how technology could solve problems and improve everyday life. After successfully completing high school, I decided to pursue a career in Information Systems Engineering, beginning my studies at Instituto San Ignacio de Loyola (ISIL) in 2018. Initially, programming was challenging, and I struggled to grasp certain concepts in the early semesters. However, as I progressed, I became more engaged, eager to explore new technologies and continuously improve my skills.
-<br><br>        
-In 2021, I graduated as a Systems Technician from ISIL and transferred to Universidad San Ignacio de Loyola (USIL), where I validated my coursework and continued my path toward becoming an engineer. While studying at USIL, I had the opportunity to gain professional experience as a Software Analyst at Lidera Software S.A.C., where I worked from May 2022 to July 2023. During this time, I contributed to the development of an accounting software system, utilizing the latest technologies of that period while balancing my academic responsibilities.
-<br><br>
-The flexibility of remote work, due to the COVID-19 pandemic, allowed me to gain hands-on experience while continuing my studies. Eventually, I decided to leave my job to fully focus on completing my degree with outstanding performance and ensuring a strong foundation in my final semester. In December 2024, I successfully completed all my courses and graduated from Universidad San Ignacio de Loyola (USIL) in Information Systems Engineering. My Bachelor's degree is currently being processed, and I will obtain it between April and May 2025. Now, in 2025, I am in the process of completing my thesis to obtain my professional title.
-<br><br>
-Beyond programming, I am passionate about exploring various technologies and continuously expanding my knowledge. As a creative outlet, I also enjoy video editing and graphic design, which help me develop a different perspective and enhance my problem-solving skills. My journey has been shaped by dedication, perseverance, and an eagerness to keep learning, and I look forward to what the future holds in the ever-evolving world of technology.
-    </p>
+  <p align="justify">
+    From a young age, I developed a strong interest in computers, fascinated by how technology can solve real-world problems and optimize processes. In 2018, I began my professional education at Instituto San Ignacio de Loyola (ISIL), pursuing a career as a Systems Technician. At first, programming felt complex, but through consistent effort and dedication, I overcame early challenges and gradually understood the core principles of software development and its possibilities.
+    <br><br>
+    In 2021, I earned my Systems Technician degree and continued my academic path at Universidad San Ignacio de Loyola (USIL), where I validated my coursework and pursued a degree in Information Systems Engineering. While completing my studies, I worked as a Software Analyst at Lidera Software S.A.C. from May 2022 to July 2023. During this period, I contributed to the development of an accounting system using modern technologies, gaining real-world experience that complemented my academic training.
+    <br><br>
+    Remote work during the pandemic allowed me to balance professional experience with academic responsibilities. In December 2024, I completed all coursework for my engineering degree, and in July 2025, I obtained my Bachelor’s degree. I am currently working on my thesis to earn my professional title, focusing on a research topic connected to software development with social impact.
+    <br><br>
+    Throughout this journey, I have built several personal and academic projects focused on web development, functional applications, and practical solutions using modern technologies. I continue expanding my skills in FullStack development, frameworks, best practices, and agile methodologies, aiming to grow professionally and contribute efficient solutions to the tech industry.
+  </p>
 </i>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Cris223511?color=1DA1F2&label=Cris223511&logo=twitter&style=for-the-badge)](https://twitter.com/Cris223511)
