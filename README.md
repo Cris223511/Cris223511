@@ -124,7 +124,7 @@ Next University (7 certifications) - *Oct 2021 - Mar 2022*
   <a href="https://www.youtube.com/@crisdev_01">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://es.stackoverflow.com/users/cris223511-dev">
+  <a href="https://es.stackoverflow.com/users/262104/cris223511-dev">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
   <a href="https://cris223511.github.io/portafolio/">
