@@ -61,22 +61,22 @@ Currently seeking opportunities to grow as a software engineer and contribute to
 
 ## 🚀 Featured Projects
 
-### 🏢 **[Code Resolutions S.A.C.](https://cris223511.github.io/portafolio/)**
+### 🏢 **Code Resolutions S.A.C.**
 Software development company providing custom web applications, cloud deployments, mobile apps, and AI-powered solutions for clients  
 **Tech Stack:** `Angular` • `React` • `Spring Boot` • `Laravel` • `AWS` • `Azure` • `Google Cloud`  
 **Services:** Custom software development, cloud infrastructure, mobile applications (Android/iOS), real-time analytics, AI integration
 
-### 🎓 **[App USIL - Digital University Tools](https://github.com/Cris223511/app-usil)**
+### 🎓 **App USIL - Digital University Tools**
 Comprehensive university web platform with notepad, calendar, grade calculator, games, blogs, and real-time chat  
 **Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Sass` • `Bootstrap 5` • `PHP` • `jQuery` • `AJAX`  
 **Features:** MVC architecture, responsive design, real-time features
 
-### 🏗️ **[Probisa - Asphalt Plant Website](https://github.com/Cris223511/probisa)**
+### 🏗️ **Probisa - Asphalt Plant Website**
 Corporate website for asphalt production company with product catalog, technical specifications, and SEO optimization  
 **Tech Stack:** `Angular 14` • `TypeScript` • `Sass` • `Firebase`  
 **Features:** Corporate history, distribution centers, specialized blog, quote forms
 
-### 🐾 **[Voz Animal Perú - Pet Adoption Platform](https://github.com/Cris223511/voz-animal)**
+### 🐾 **Voz Animal Perú - Pet Adoption Platform**
 Desktop application for managing pet adoptions with profiles, messaging, and post-adoption tracking  
 **Tech Stack:** `Java Swing` • `MySQL` • `MVC Architecture`  
 **Features:** Pet profiles, adoption requests, rescuer-adopter messaging, compatibility filters
