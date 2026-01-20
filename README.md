@@ -8,7 +8,7 @@ Currently seeking opportunities to grow as a software engineer and contribute to
 
 ## 💼 Professional Experience
 
-**Analista Programador** @ [Lidera Software S.A.C.](https://app.liderasoftware.pe/) *(May 2022 - Aug 2023)*  
+**Analista Programador** @ [Lidera Software S.A.C.](https://www.facebook.com/liderasoftware) *(May 2022 - Aug 2023)*  
 - Developed and optimized features for an **enterprise accounting system** using **Angular 14**, **TypeScript**, **Spring Boot**, and **MySQL**
 - Designed and implemented **RESTful APIs** with layered architecture (Controller/Service/Repository/Model)
 - Applied **Clean Code**, **SOLID principles**, and design patterns (**MVC**, **DAO**, **DTO**)
