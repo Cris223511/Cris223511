@@ -61,17 +61,17 @@ Currently seeking opportunities to grow as a software engineer and contribute to
 
 ## 🚀 Featured Projects
 
-### 🏢 **Code Resolutions S.A.C.**
-Software development company providing custom web applications, cloud deployments, mobile apps, and AI-powered solutions for clients  
+### 🏢 **[Code Resolutions S.A.C.](https://coderesolutions.com/){:target="_blank"}**
+Software development company providing custom web applications, administrative systems, and personalized digital platforms for national and international clients  
 **Tech Stack:** `Angular` • `React` • `Spring Boot` • `Laravel` • `AWS` • `Azure` • `Google Cloud`  
-**Services:** Custom software development, cloud infrastructure, mobile applications (Android/iOS), real-time analytics, AI integration
+**Services:** Custom software development, cloud deployments, mobile applications (Android/iOS), educational tech sessions
 
-### 🎓 **App USIL - Digital University Tools**
+### 🎓 **[App USIL - Digital University Tools](https://app-usil.42web.io/){:target="_blank"}**
 Comprehensive university web platform with notepad, calendar, grade calculator, games, blogs, and real-time chat  
 **Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Sass` • `Bootstrap 5` • `PHP` • `jQuery` • `AJAX`  
 **Features:** MVC architecture, responsive design, real-time features
 
-### 🏗️ **Probisa - Asphalt Plant Website**
+### 🏗️ **[Probisa - Asphalt Plant Website](https://probisa.cl/){:target="_blank"}**
 Corporate website for asphalt production company with product catalog, technical specifications, and SEO optimization  
 **Tech Stack:** `Angular 14` • `TypeScript` • `Sass` • `Firebase`  
 **Features:** Corporate history, distribution centers, specialized blog, quote forms
