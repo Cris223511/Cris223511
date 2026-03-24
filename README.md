@@ -66,7 +66,7 @@ Software development company providing custom web applications, administrative s
 **Tech Stack:** `Angular` • `React` • `Spring Boot` • `Laravel` • `AWS` • `Azure` • `Google Cloud`  
 **Services:** Custom software development, cloud deployments, mobile applications (Android/iOS), educational tech sessions
 
-### 🎓 **<a href="https://app-usil.42web.io/" target="_blank">App USIL - Digital University Tools</a>**
+### 🎓 **<a href="https://appusil.com" target="_blank">App USIL - Digital University Tools</a>**
 Comprehensive university web platform with notepad, calendar, grade calculator, games, blogs, and real-time chat  
 **Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Sass` • `Bootstrap 5` • `PHP` • `jQuery` • `AJAX`  
 **Features:** MVC architecture, responsive design, real-time features
