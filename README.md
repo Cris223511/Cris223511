@@ -8,12 +8,22 @@ Currently seeking opportunities to grow as a software engineer and contribute to
 
 ## 💼 Professional Experience
 
-**Analista Programador** @ [Lidera Software S.A.C.](https://www.facebook.com/liderasoftware) *(May 2022 - Aug 2023)*  
-- Developed and optimized features for an **enterprise accounting system** using **Angular 14**, **TypeScript**, **Spring Boot**, and **MySQL**
-- Designed and implemented **RESTful APIs** with layered architecture (Controller/Service/Repository/Model)
-- Applied **Clean Code**, **SOLID principles**, and design patterns (**MVC**, **DAO**, **DTO**)
-- Participated in **Scrum ceremonies** and collaborated using **Git/GitHub** for version control
-- Optimized SQL queries, stored procedures, and database indexes for improved performance
+**Software Developer** @ [Lidera Software S.A.C.](https://www.facebook.com/liderasoftware) *(May 2022 - Aug 2023)*
+- Developed the complete backend of an enterprise accounting system using **Java 11/Spring Boot**, implementing REST APIs with **Spring Data JPA**, **Spring Security** and **JWT** on **MySQL**
+- Developed the frontend with **Angular 14** and **TypeScript**, implementing modular components, lazy loading, guards, reactive forms and service consumption with **HttpClient/RxJS**
+- Optimized performance by 40% through efficient SQL queries, stored procedures and indexes in **MySQL**
+- Technical leadership of the development team, coordinating tasks, code reviews and architecture decisions under **Scrum** methodology
+- Technical and functional documentation to facilitate system maintenance and scalability
+
+**Full Stack Developer – Freelance** @ [Code Resolutions S.A.C.](https://coderesolutions.com/) *(September 2023 - Present)*
+- Development of web solutions for national and international corporate clients (Chile, Italy), covering requirements gathering, architecture, development and deployment
+- University web platform (App USIL) with 30+ integrated tools, real-time chat with **Socket.io**, professor review system and AI tools. Tech: **PHP**, **JavaScript**, **Node.js**, **MySQL**, **Redis**, **Bootstrap 5**, **Sass** (MVC)
+- Geospatial system for the Tumbes region (GeoPortal) with interactive map viewer, thematic layers and admin panel. Tech: **Angular 18**, **TypeScript**, **Java 24/Spring Boot 3.4**, **PostgreSQL/PostGIS**, **OpenLayers**
+- AI-powered video transcription platform for Universidad Nacional de Tumbes. Tech: **Angular 19**, **TypeScript**, **Python 3.12**, **PostgreSQL**, **Redis**, **Docker**
+- Corporate websites for companies in Chile (Wingss, Trigo Technologies) with **Astro**, **TypeScript**, **Tailwind CSS**, **Firebase** and **Cloudflare**
+- Corporate websites with **React/TypeScript** and **Node.js/Express/MongoDB** for clients in Chile and Italy (Agencia Revive, Probisa, Servizi Solari, Amaritia Vitality)
+- Pharmacy management system (Boticas San Rafael) with **Angular**, **ASP.NET Core**, **C#**, **Entity Framework** and **SQL Server**
+- Deployments on **AWS** (EC2, S3), **Azure**, **Docker**, **Nginx** and **Cloudflare**. **JWT** authentication. **Git/GitHub**
 
 ---
 
@@ -73,7 +83,7 @@ Comprehensive university web platform with notepad, calendar, grade calculator, 
 
 ### 🏗️ **<a href="https://probisa.cl/" target="_blank">Probisa - Asphalt Plant Website</a>**
 Corporate website for asphalt production company with product catalog, technical specifications, and SEO optimization  
-**Tech Stack:** `Angular 14` • `TypeScript` • `Sass` • `Firebase`  
+**Tech Stack:** `React` • `TypeScript` • `Sass` • `Firebase`  
 **Features:** Corporate history, distribution centers, specialized blog, quote forms
 
 ### 🐾 **Voz Animal Perú - Pet Adoption Platform**
@@ -95,11 +105,13 @@ Instituto San Ignacio de Loyola (ISIL) - *2021*
 Next University (7 certifications) - *Oct 2021 - Mar 2022*
 
 ### 🏆 Certifications
-- ☁️ Microsoft Azure Fundamentals (AZ-900)
-- ☁️ AWS Cloud Practitioner Essentials
-- 🗄️ Oracle Database Foundations
-- 💻 Full Stack Development - Next University
-- 🐍 Python Programming
+- ☁️ Spring Boot, Angular, Docker, React, SQL, Go (9 certifications) - CodeSignal (2026)
+- ☁️ AWS Foundations: Cloud Essentials - Amazon Web Services (2025)
+- 🗄️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate - Oracle (2025)
+- ☁️ Microsoft Azure Fundamentals (AZ-900) - Microsoft (2023)
+- 🗄️ Oracle Dev Gym: Databases for Developers (Next Level) - Oracle (2024)
+- 💻 Scrum Master Professional Certificate (SMPC) - CertiProf (2024)
+- 💻 Full Stack Development (7 certifications) - Next University (2021-2022)
 
 ---
 
@@ -156,7 +168,7 @@ Next University (7 certifications) - *Oct 2021 - Mar 2022*
 ## 🏆 Achievements
 
 - 🎓 **Bachelor's Degree** in Information Systems Engineering from USIL
-- 💼 **1.3 years** of professional experience as Full Stack Developer
+- 💼 **3+ years** of professional and freelance experience as Full Stack Developer
 - 🚀 **20+ projects** developed (academic, personal, and professional)
 - 🏢 **Founder** of Code Resolutions S.A.C. - providing software solutions to clients
 - 🎯 Multiple **cloud certifications** (AWS, Azure, Oracle)
